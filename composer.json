@@ -1,0 +1,7 @@
+{
+    "name": "kylealexarnau/m8-git",
+    "description": "Calculos matematicos",
+    "require": {
+        "php": ">=7.4",
+    }
+}
